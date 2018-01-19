@@ -1,0 +1,11 @@
+@extends('layout.index3')
+@section('konten')<br><br><br><br><br>
+<center><img src="poto/dota.jpg"></center>
+<h1><i>Dota 2</i></h1>
+<hr>Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
+<br>
+<br>
+<p><b>Dota 2</b> adalah sebuah permainan <i>multiplayer online battle arena</i>, merupakan sekuel dari <i><a href="/wiki/Defense_of_the_Ancients" title="Defense of the Ancients">Defense of the Ancients</a></i> mod pada <i>Warcraft 3&#160;: Reign of Chaos</i> dan <i>Warcraft 3&#160;: The Frozen Throne</i>. DotA 2 dikembangkan oleh&#160;<a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve Corporation</a>, terbit juli 2013 dota 2 dapat dimainkan secara gratis pada <i>operation system</i> <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, <a href="/wiki/OS_X" class="mw-redirect" title="OS X">OS X</a> and <a href="/wiki/Linux" title="Linux">Linux</a>. Dota 2 dapat dimainkan secara eksklusif melalui distributor resmi valve, <a href="/wiki/Steam" title="Steam">Steam</a>.</p>
+<p>Dota 2 dimainkan oleh 2 team yang beranggota 5 orang pemain, setiap tim memiliki markas yang berada dipojok peta, setiap markas memiliki satu bangunan bernama "Ancient", Di mana tim harus berusaha menghancurkan "Ancient" tim lainnya agar dapat memenangkan pertandingan. Setiap pemain mengontrol satu karakter "Hero" yang berfokus pada menaikan level, mengumpulkan gold, membeli item dan melawan tim lawan untuk menang.</p>
+<p>Pengembangan Dota 2 dimulai sejak tahun 2009. Ketika pengembang mod DotA, Icefrog, dipekerjakan oleh Valve sebagai lead designer. Dota 2 dipuji oleh kritikus karena gameplay-nya, kualitas pembuatan dan kesetiaan pada gameplay pendahulu (DotA mod Warcraft 3). tetapi Dota 2 juga menuai kritik sebagai game yang susah dipelajari dan para pemain yang tidak ramah.Sampai pertengahan 2017 Dota 2 menjadi game yang memiliki aktivitas pemain paling banyak di <a href="/wiki/Steam" title="Steam">Steam</a>, dengan pucak 800,000 pemain online bersamaan setiap hari. Namun telah disusul game PUBG (Player unknown battle ground) yang memiliki aktifitas pemain sampai 1 juta setiap harinya. </p>
+@endsection
